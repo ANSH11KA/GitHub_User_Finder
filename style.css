@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(177, 164, 193);
+}
+h1 {
+  text-align: center;
+  color: black;
+  line-height: 90px;
+  text-decoration: underline;
+}
+
+button {
+  color: black;
+  background-color: rgb(132, 132, 252);
+  border-radius: 5px;
+  padding: 12px;
+  border-color: black;
+  box-shadow: 5px rgb(222, 208, 208);
+}
+#search {
+  width: 450px;
+  height: 450px;
+  text-align: center;
+  margin: auto;
+  padding: 50px;
+  background-color: rgb(143, 116, 189);
+  border-radius: 25px;
+  border: solid 2px rgb(236, 227, 227);
+  box-shadow: 4px 4px 8px rgb(54, 31, 96);
+}
+input {
+  height: 20px;
+  width: 200px;
+  padding: 10px;
+  background-color: rgb(231, 231, 247);
+  border-radius: 10px;
+  border-color: rgb(122, 122, 183);
+  box-shadow: 4px 4px 8px rgb(54, 31, 96);
+}
+img {
+  border-radius: 50%;
+  width: 150px;
+}
+h4 {
+  margin-top: 7px;
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  margin-left: 5px;
+}
+#profile {
+  margin-top: 50px;
+  height: auto;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  border: solid 1px whitesmoke;
+  box-shadow: 4px 4px 8px rgb(54, 31, 96);
+}
